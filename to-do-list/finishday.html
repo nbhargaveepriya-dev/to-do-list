@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TODE</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="finalDiv">
+    <h1 id="final-title"></h1>
+
+    <div class="center-image">
+      <img src="FinishGood.png" alt="Center image" id="successTasks" hidden>
+      <img src="FinishMid.png" alt="Center image" id="unsuccessTasks" hidden>
+    </div>
+
+    <span id="conclusion"></span>
+
+    <button id="restart-btn">BACK HOME</button>
+  </div>
+
+  <!-- Normal JS -->
+  <script>
+    document.getElementById("restart-btn").onclick = function () {
+        window.location.href = "index.html";
+    };
+  </script>
+      <script src="finishDay.js"></script>
+</body>
+</html>
