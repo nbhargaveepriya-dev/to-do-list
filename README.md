@@ -3,7 +3,8 @@
 **Tode** is a simple yet powerful to-do list website I built in one week to kickstart my productive coding journey.  
 It’s built entirely with **HTML**, **CSS**, and **JavaScript**—no frameworks, no dependencies! 
 
-This project helped me refresh my JavaScript skills and strengthen my understanding of DOM manipulation, events, and data structures while building something practical. the inperation was taken from a insta creator
+This project helped me refresh my JavaScript skills and strengthen my understanding of DOM manipulation, events, and data structures while building something practical. the 
+inspiration was taken from a insta creator
 
 ## ✨ Features
 
