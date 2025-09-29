@@ -1,4 +1,4 @@
-# Tode – To-Do List App
+# Tode – To-Do List
 
 **Tode** is a simple yet powerful to-do list website I built in one week to kickstart my productive coding journey.  
 It’s built entirely with **HTML**, **CSS**, and **JavaScript**—no frameworks, no dependencies! 
